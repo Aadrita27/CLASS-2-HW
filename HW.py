@@ -2,7 +2,7 @@ person_name=input('tell your name-')
 goal=input('what goal you want to improve-')
 target_month=input('tell the month YOU WANT TO REACH IT BY-')
 
-daily_minutes=(30)
+daily_minutes=(40)
 
 print("\nMY DAILY GOAL PLANNER\n")
 
